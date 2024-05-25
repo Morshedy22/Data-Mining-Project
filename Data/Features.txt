@@ -1,0 +1,23 @@
+Data: Description
+
+The Dataset summarizes the behavior of 8950 credit card holders during the last 6 months 
+and consists of 18 features.
+
+Cust_Id: Identification of credit card holder      
+Balance: A credit card balance or Total amount left in their account to make purchases 
+Balance_Frequency: How frequently the balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
+Purchases: Total amount of purchases made from account
+One_Off_Purchases: Maximum purchase amount done in one-go 
+Installments_Purchases: Amount of purchase done in installment
+Cash_Advance: Cash in advance given by the user 
+Purchases_Frequency: How frequently the Purchases are being made, score between 0 and 1 (1 = frequently purchased, 0 = not frequently purchased)
+One_Off_Purchases_Frequency: How frequently Purchases are happening in one-go (1 = frequently purchased, 0 = not frequently purchased)      
+Purchases_Installments_Frequency: How frequently purchases in installments are being done (1 = frequently done, 0 = not frequently done)  
+Cash_Advance_Frequency: How frequently the cash in advance being paid
+Cash_Advance_Trx: Number of Transactions made with "Cash in Advanced" 
+Purchases_Trx: Number of purchase transactions made  
+Credit_Limit: Limit of Credit Card for user  
+Payments: Total amount of payments done by user  
+Minimum_Payments: Minimum amount of payments made by user  
+Prc_Full_Payment: Percentage of full payment paid by user  
+Tenure: Tenure of credit card service for user
